@@ -1,0 +1,16 @@
+.slides img{
+    opacity: 50%;
+}
+.slides{
+    text-shadow: 0 3px 1px black;
+}
+a .fa{
+    padding: 1rem;
+}
+
+#autocomplete-input{
+    padding: 0.25rem 0.75rem !important;
+    font-size: 20px !important;
+    width: 90% !important;
+    border: 3px solid #f4f4f4 !important;
+}
